@@ -1,0 +1,26 @@
+body
+{
+    background-image:url("image/imagelab4.webp");
+    background-position:top center;
+    background-size: cover;
+}
+h1
+{
+    color:white;
+}
+.realisateur
+{
+    color:yellowgreen; font-size: 25px;
+    list-style :none;
+}
+
+.film
+{
+    list-style-type: upper-latin;
+    color:white;
+}
+
+.acteur
+{
+    list-style-type: disc;
+}
